@@ -1,0 +1,28 @@
+{
+    "name": "@ahas/decorate-if",
+    "version": "1.0.0",
+    "description": "conditional decorator library",
+    "main": "dist/index.ts",
+    "author": "ahas <dev@ahas.io>",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ahas/decorate-if"
+    },
+    "bugs": {
+        "url": "https://github.com/ahas/decorate-if/issues"
+    },
+    "engines": {
+        "node": ">=14.6.0"
+    },
+    "license": "MIT",
+    "files": [
+        "dist/index.js",
+        "dist/index.d.ts"
+    ],
+    "keywords": [
+        "decorator"
+    ],
+    "scripts": {
+        "build": "rm -rf dist && tsc -p tsconfig.json"
+    }
+}
