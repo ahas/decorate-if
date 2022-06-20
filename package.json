@@ -1,6 +1,6 @@
 {
     "name": "@ahas/decorate-if",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "conditional decorator library",
     "main": "dist/index.ts",
     "author": "ahas <dev@ahas.io>",
